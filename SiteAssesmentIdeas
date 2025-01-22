@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ideas</title>
+    <link rel="icon" href="Icones/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/SiteAssementstyle.css">
+</head>
+<body>
+    <a href="#main_content" class="difference">Skip to main content</a>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="SiteAssesmentMaterial.html">Material you need</a>
+            <a class="current" href="SiteAssesmentIdeas.html">Some ideas to start</a>
+        </nav>
+        <h1>Now that you have everything, here is some ideas you can start with.</h1>
+    </header>
+    <h2>I made a compilation of free videos you can use to make beginner friendly projects</h2>
+    <p>
+        Don't forget, it's okay to make mistakes. It's part of the learning process. You will get better with time. Finishing those projects will give you a sense of accomplishment and will motivate you to do more. Have fun !
+    </p>
+    <div id="main_content">
+        <div class="crochet-item">
+            <img src="Images/Scrunchycrochet.png" alt="A scrunchy made with crochet">
+            <a href="https://www.youtube.com/watch?v=DcU_ZTu4RKQ&ab_channel=VivCrochets">A really useful scrunchy</a>
+        </div>
+        <div class="crochet-item">
+            <img src="Images/Octopusscrochet.png" alt="A little octopus made with crochet">
+            <a href="https://www.youtube.com/watch?v=gyAym-kZFhk&ab_channel=ArtisanGiftCollection">A cute octopus</a>
+        </div>
+        <div class="crochet-item">
+            <img src="Images/Bookmarkcrochet.png" alt="A bookmark made with crochet">
+            <a href="https://www.youtube.com/watch?v=h3MNKLV7G3s&ab_channel=MakeItYourselfByPapari">A bookmark for your favorite book</a>
+        </div>
+        <div class="crochet-item">
+            <img src="Images/Lavendercrochet.png" alt="Lavender keychain made with crochet">
+            <a href="https://www.youtube.com/watch?v=Fz9E0CX-BkI&t=9s&ab_channel=KukkacrochetByPutri">A small lavender keychain</a>
+        </div>
+        <div class="crochet-item">
+            <img src="Images/Bandanacrochet.png" alt="A pink bandana made with crochet">
+            <a href="https://www.youtube.com/watch?v=49FBB2IPHBk&ab_channel=YarnStashwithMarchingNorth">A pink bandana</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Chloé</p>
+    </footer>
+</body>
+</html>
