@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materials</title>
+    <link rel="icon" href="Icones/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/SiteAssementstyle.css">
+</head>
+<body>
+    <a href="#main_content" class="difference">Skip to main content</a>
+    <HEADER>
+        <nav>
+            <a href="index.html">Home</a>
+            <a class="current" href="SiteAssesmentMaterial.html">Material you need</a>
+            <a href="SiteAssesmentIdeas.html">Some ideas to start</a>
+        </nav>
+        <h1>Here is a list of the material you need to start Crochet.</h1>
+    </HEADER>
+    <main>
+        <p>>
+        <ul id="main_content">
+            <li>Crochets. There are a lot of size available but the smaller the size, the harder it is. For me, size 5mm is the easiest to start.</li>
+            <li>Yarn. There are a lot of type of yarns to, different size, colors etc. To start I would recommend coton as it tends to be easier to knit. You can see the size of the hook you need to yarn no the label of the yarn.</li>
+            <li>Some stitch marker. At first it will be really handy to be sure you have made the right amount of stitches in each row</li>
+            <li>Yarning needles. You will need them to hide the yarn at the end of your project.</li>
+            <li>Cissors. You will often have to cut you yarn, it's easier to have it with you at all time.</li>
+        </ul>
+        </p>
+        <p>
+            There are so much more items you can buy to make your crochet experience easier and more fun. But with those 5 items, you can start and make a lot of things.
+        </p>
+        <img class="pages" src="Images/Materielcrochet.jpg" alt="Material for crochet">
+    </main>
+    <footer>
+        <p>&copy; 2025 Chloé</p>
+    </footer>
+</body>
+</html>
