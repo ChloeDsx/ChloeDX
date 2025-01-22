@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IN:wght@100..400&display=swap');
+
+.difference {
+    color:#081963;
+}
+
+nav {
+    background-color:#000000;
+    color: #000000;
+    padding: 30px;
+    text-align:center;
+    font-size: 50px;
+    font-family: Dancing Script;
+    background-image: url(../Images/abstract-texture-pattern-elegant-navy-blue-and-black-watercolor-canvas-a-modern-art-background-featuring-soft-gradient-graphic-design_9985953.jpg);
+    display: flex;
+    
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration-line: overline;
+    padding: 10px;
+    flex: 1;
+}
+
+.current {
+    color: #dff185;
+}
+
+.pages {
+    width: 500px;
+    height: auto;
+    border: #081963 1px solid;
+    padding: 2px;
+    border-radius: 20px;
+    display: block; 
+    margin: 0 auto;
+
+}
+
+div img {
+    width: 50%;
+    height: auto;
+}
+
+p {
+    margin-left: 70px;
+    color: #081963;
+}
+
+h1 {
+    margin-left: 70px;
+    font-family: Playwrite IN;
+    color: #037291;
+}
+
+h2 {
+    margin-left: 70px;
+    text-align: center;
+}
+
+ul {
+    margin-left: 70px;
+}
+
+div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px;
+}
+
+.crochet-item {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le lien */
+    align-items: center; /* Centrer l'image et le lien horizontalement */
+}
+
+.crochet-item img {
+    width: 100%; /* Rendre l'image responsive */
+    max-width: 300px; /* Limite la taille de l'image */
+    height: auto;
+    padding: 20px;
+}
+
+div a {
+    color: #ffffff;
+    background-color: #081963;
+    text-decoration: underline;
+    font-family: Playwrite IN;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.crochet-item:nth-child(odd) {
+    background-image: url(../Images/Backgroundcrochet.jpg);
+    padding: 20px;
+}
+
+div a:hover {
+    color:#FFFFFF;
+    background-color:  #6a046f;
+}
